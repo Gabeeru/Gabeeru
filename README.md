@@ -1,9 +1,5 @@
 <p align="center">
-  <h1>
-    <a href="https://git.io/typing-svg" target="_blank">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&color=0A66C2&center=true&vCenter=true&width=500&lines=Hello!;Hola!;こんにちは!;Bonjour!;안녕하세요!;Hallo!" />
-    </a>
-  </h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&color=0A66C2&center=true&vCenter=true&width=500&lines=Hello!;Hola!;こんにちは!;Bonjour!;안녕하세요!;Hallo!" />
 </p>
 
 ---
@@ -48,5 +44,5 @@
 
 ### 👀 Visitors
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Gabeeru/count.svg" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Gabeeru.Gabeeru" />
 </p>
