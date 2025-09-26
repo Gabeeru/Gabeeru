@@ -12,7 +12,7 @@
 
 ### 💻 Programming Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,php,git,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,nextjs,nodejs,express,python,java,c,cpp,go,ruby,php,laravel,django,flask,postgres,mysql,mongodb,git,docker,kubernetes,aws,azure,gcp,figma,flutter,swift,kotlin,tailwind,bootstrap,sass,graphql,redux,vercel,netlify,linux" />
 </div>
 
 ---
