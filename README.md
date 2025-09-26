@@ -27,8 +27,8 @@
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabrielmatthewcabije/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+ <a href="https://www.facebook.com/gabokugnawng" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://twitter.com/gaaab_cc" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -36,7 +36,7 @@
   <a href="mailto:mamatcabije@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://gabriel.dev](https://gabeeru.github.io/website/" target="_blank">
+  <a href="https://gabeeru.github.io/website/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
