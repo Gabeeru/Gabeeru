@@ -34,9 +34,9 @@
 
 #### Others / Misc
 <img src="https://skillicons.dev/icons?i=r,matlab,unity,blender,arduino,raspberrypi,latex,docker-compose" />
-  <p><i>It's a prank, i'm not einstein v2 or whatever. i have a life /br
+  <p><i>It's a prank, i'm not einstein v2 or whatever. i have a life </br>
   ,here's the real one:</i></p>
-   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,php,git,docker" /> the real one lmao
+   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,php,git,docker" />
 </div>
 <!-- ### 💻 Programming Skills
 <div align="center">
