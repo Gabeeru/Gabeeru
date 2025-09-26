@@ -4,7 +4,7 @@
 
 ---
 
-<p align="center">
+<p align="center" style="margin-left: 50px; margin-right: 50px;">
   I'm <b>Gabriel Matthew Cabije</b>, a passionate and motivated developer. I enjoy building efficient and scalable web applications, exploring new technologies, and continuously improving my skills. Always eager to collaborate on exciting projects!
 </p>
 
