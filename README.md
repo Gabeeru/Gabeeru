@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&color=0A66C2&center=true&vCenter=true&width=700&lines=HOY BUANG!;Hello!;Hola!;こんにちは!;Bonjour!;안녕하세요!;Hallo!;Ciao!;Olá!;Привет!;سلام!;नमस्ते!;مرحبا!;Hej!;Szia!;שלום!;Sawubona!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&color=0A66C2&center=true&vCenter=true&width=500&lines=HOYBUANG!;Hello!;Hola!;Bonjour!;Ciao!;Olá!;Hej!;Szia!;こんにちは!;안녕하세요!;Привет!;سلام!;नमस्ते!;مرحبا!;שלום!;Sawubona!" />
 </p>
 
 
@@ -34,8 +34,10 @@
 
 #### Others / Misc
 <img src="https://skillicons.dev/icons?i=r,matlab,unity,blender,arduino,raspberrypi,latex,docker-compose" />
+</br></br></br>
+
   <p><i>It's a prank, i'm not einstein v2 or whatever. i have a life </br>
-  ,here's the real one:</i></p>
+  Here's the real one:</i></p>
    <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,php,git,docker" />
 </div>
 <!-- ### 💻 Programming Skills
