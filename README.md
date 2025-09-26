@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&color=0A66C2&center=true&vCenter=true&width=500&lines=Hello!;Hola!;こんにちは!;Bonjour!;안녕하세요!;Hallo!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&color=0A66C2&center=true&vCenter=true&width=700&lines=HOY BUANG!;Hello!;Hola!;こんにちは!;Bonjour!;안녕하세요!;Hallo!;Ciao!;Olá!;Привет!;سلام!;नमस्ते!;مرحبا!;Hej!;Szia!;שלום!;Sawubona!" />
 </p>
+
 
 ---
 
@@ -12,8 +13,35 @@
 
 ### 💻 Programming Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,nextjs,nodejs,express,python,java,c,cpp,go,ruby,php,laravel,django,flask,postgres,mysql,mongodb,git,docker,kubernetes,aws,azure,gcp,figma,flutter,swift,kotlin,tailwind,bootstrap,sass,graphql,redux,vercel,netlify,linux" />
+
+#### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,nextjs,svelte,tailwind,bootstrap,sass,less,materialui,chakraui,antd,redux,rxjs,graphql" />
+
+#### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,java,spring,php,laravel,ruby,rails,go,c,cpp,csharp,swift,kotlin,perl,scala,elixir,fastapi,nestjs" />
+
+#### Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,oracle,firebase,neo4j,dynamodb" />
+
+#### DevOps / Cloud
+<img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,azure,gcp,vercel,netlify,linux,heroku,travisci,jenkins,circleci,githubactions" />
+
+#### Mobile
+<img src="https://skillicons.dev/icons?i=flutter,reactnative,swift,kotlin,java,objectivec" />
+
+#### Design / Tools
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,canva,vscode,intellij,pycharm,webstorm,androidstudio,postman" />
+
+#### Others / Misc
+<img src="https://skillicons.dev/icons?i=r,matlab,unity,blender,arduino,raspberrypi,latex,docker-compose" />
+  <p><i>It's a prank, i'm not einstein v2 or whatever. i have a life /br
+  ,here's the real one:</i></p>
+   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,php,git,docker" /> the real one lmao
 </div>
+<!-- ### 💻 Programming Skills
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,php,git,docker" /> the real one lmao
+</div> -->
 
 ---
 
