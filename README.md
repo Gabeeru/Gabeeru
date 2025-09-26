@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+  <h1>👋 Hello! Hola! こんにちは! Bonjour! 안녕하세요! Hallo!</h1>
+</p>
 
-<!--
-**Gabeeru/Gabeeru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">
+  I'm Gabriel Matthew Cabije, a passionate and motivated developer. I enjoy building efficient and scalable web applications, exploring new technologies, and continuously improving my skills.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Programming Skills
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,php,postgres,git,docker" />
+</div>
