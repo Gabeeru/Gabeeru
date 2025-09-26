@@ -50,6 +50,8 @@
 ### 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabeeru&show_icons=true&theme=radical" />
+
+### 📊 STREAK!
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabeeru&theme=radical" />
 </div>
 
