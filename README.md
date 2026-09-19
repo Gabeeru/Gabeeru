@@ -19,34 +19,24 @@
 <div align="center">
 
 #### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,nextjs,svelte,tailwind,bootstrap,sass,less,materialui,chakraui,antd,redux,rxjs,graphql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 
 #### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,java,spring,php,laravel,ruby,rails,go,c,cpp,csharp,swift,kotlin,perl,scala,elixir,fastapi,nestjs" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,django,java,php,laravel,c,cpp,csharp" />
 
 #### Databases
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,oracle,firebase,neo4j,dynamodb" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase" />
 
-#### DevOps / Cloud
-<img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,azure,gcp,vercel,netlify,linux,heroku,travisci,jenkins,circleci,githubactions" />
-
-#### Mobile
-<img src="https://skillicons.dev/icons?i=flutter,reactnative,swift,kotlin,java,objectivec" />
 
 #### Design / Tools
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,canva,vscode,intellij,pycharm,webstorm,androidstudio,postman" />
+<img src="https://skillicons.dev/icons?i=git,figma,photoshop,illustrator,canva,vscode,intellij,pycharm,webstorm,androidstudio,postman" />
 
-#### Others / Misc
-<img src="https://skillicons.dev/icons?i=r,matlab,unity,blender,arduino,raspberrypi,latex,docker-compose" />
-</br></br></br>
-
+<!--
   <p><i>It's a prank, i'm not einstein v2 or whatever. i have a life </br>
   Here's the real one:</i></p>
    <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,php,git,docker" />
 </div>
-<!-- ### 💻 Programming Skills
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,php,git,docker" /> the real one lmao
+
 </div> -->
 
 ---
