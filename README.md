@@ -1,5 +1,9 @@
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Gabeeru.Gabeeru" />
+</p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&color=0A66C2&center=true&vCenter=true&width=500&lines=HOYBUANG!;Hello!;Hola!;Bonjour!;Ciao!;Olá!;Hej!;Szia!;こんにちは!;안녕하세요!;Привет!;سلام!;नमस्ते!;مرحبا!;שלום!;Sawubona!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2000&color=0A66C2&center=true&vCenter=true&width=500&lines=Hello!;Hola!;Bonjour!;Ciao!;Olá!;Hej!;Szia!;こんにちは!;안녕하세요!;Привет!;سلام!;नमस्ते!;مرحبا!;שלום!;Sawubona!" />
 </p>
 
 
