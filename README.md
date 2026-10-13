@@ -38,7 +38,7 @@
 </div>
 
 </div> -->
-
+<!-- commented for the betterment of the world
 ---
 
 ### 📊 GitHub Stats
@@ -49,7 +49,7 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabeeru&theme=radical" />
 </div>
 
----
+--->
 
 ### 📫 Connect with Me
 <p align="center">
